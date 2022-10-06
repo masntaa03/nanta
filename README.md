@@ -1,2 +1,0 @@
-# nanta
-website saya
